@@ -1,6 +1,6 @@
 - 👋 Hi! I’m Sasha, a full-stack developer based in Sacramento. 
 - 👀 I’m interested in building full-stack websites and daily-use applications.
-- 🌱 I’m currently learning MongoDB, SQL, Express, React, and Node.
+- 🌱 I’m currently building with JS, Node, React, Express, PostgreSQL and MongoDB.
 - 💞️ I’m looking to collaborate on any fun projects related to music, nerdy stuff like Pokémon, or useful everyday apps that streamline things like organizing events. Currently updating a potluck organizing app and building a coffee review app! 
 - 📫 You can reach me at sasha.devanov@gmail.com
 - 😄 Pronouns: he/him
